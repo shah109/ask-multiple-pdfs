@@ -39,7 +39,7 @@ To install the MultiPDF Chat App, please follow these steps:
 OPENAI_API_KEY=your_secrit_api_key
 ```
 
-## Usage
+## Using the app
 -----
 To use the MultiPDF Chat App, follow these steps:
 
